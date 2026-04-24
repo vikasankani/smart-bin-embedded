@@ -22,18 +22,18 @@ The design focuses on embedded control, real-time sensing, and wireless communic
 
 The system consists of three functional modules:
 
-1. Lid Control Module**
+1. Lid Control Module
 
    * Uses an external ultrasonic sensor
    * Detects object proximity (< 20 cm)
    * Triggers servo motor to open/close lid
 
-2. Fill-Level Detection Module**
+2. Fill-Level Detection Module
 
    * Internal ultrasonic sensor measures garbage level
    * Calculates fill level using bin height reference
 
-3. Communication Module**
+3. Communication Module
 
    * HC-05 Bluetooth module
    * Sends alert message to mobile device
