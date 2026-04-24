@@ -3,7 +3,7 @@ Smart bin using ESP32 with dual ultrasonic sensors and Bluetooth alert Smart Bin
 
 ## Overview
 
-This project implements a touchless smart waste bin system using an Arduino UNO. The system integrates **dual ultrasonic sensors for lid automation and fill-level monitoring, along with a Bluetooth communication module (HC-05) to notify users when the bin is full.
+This project implements a touchless smart waste bin system using an Arduino UNO. The system integrates dual ultrasonic sensors for lid automation and fill-level monitoring, along with a Bluetooth communication module (HC-05) to notify users when the bin is full.
 
 The design focuses on embedded control, real-time sensing, and wireless communication, making it suitable for smart environment and IoT-based waste management applications.
 
